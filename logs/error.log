@@ -1,0 +1,6 @@
+2024-01-08 20:53:33:5333 - [31merror[39m: [31mNot connect[39m
+2024-01-08 20:53:40:5340 - [31merror[39m: [31mNot connect[39m
+2024-01-08 20:53:42:5342 - [31merror[39m: [31mNot connect[39m
+2024-01-09 18:18:13:1813 - [31merror[39m: [31mNot connect[39m
+2024-01-09 19:53:08:538 - [31merror[39m: [31mErro no sistema Cast to ObjectId failed for value "id" (type string) at path "_id" for model "Movie"[39m
+2024-01-09 19:53:39:5339 - [31merror[39m: [31mErro no sistema Cast to ObjectId failed for value "659dc9bc3eeefccd013d26b" (type string) at path "_id" for model "Movie"[39m
